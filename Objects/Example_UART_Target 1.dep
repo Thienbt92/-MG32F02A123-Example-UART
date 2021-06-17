@@ -1,0 +1,1245 @@
+Dependencies for Project 'Example_UART', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::ARMCC
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_ADC_Init.c)(0x609A3294)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_adc_init.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_adc_init.crf --depend .\objects\mg32x02z_adc_init.d)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_ADC_Init.h)(0x609A3294)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_ADC.h)(0x606D9A82)
+I (.\RTE\_Target_1\RTE_Components.h)(0x60CB755F)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_ADC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CFG_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_PW_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_PW.h)(0x606D9A7E)
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_ADC_Init.h)(0x609A3294)()
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_CSC_Init.c)(0x609A3296)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_csc_init.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_csc_init.crf --depend .\objects\mg32x02z_csc_init.d)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_CSC_Init.h)(0x6062E938)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CSC.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_MEM.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.h)(0x606D9A7E)
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_CSC_Init.h)(0x6062E938)()
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_ChipInit.c)(0x609A3294)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_chipinit.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_chipinit.crf --depend .\objects\mg32x02z_chipinit.d)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_ChipInit.h)(0x609A3294)
+I (.\RTE\_Target_1\RTE_Components.h)(0x60CB755F)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_PW_Init.h)(0x609A3294)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_PW.H)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_RST_Init.h)(0x609A3294)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_RST.H)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_GPIO_Init.h)(0x6087C00A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.h)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_CSC_Init.h)(0x6062E938)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CSC.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_MEM.h)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_EXIC_Init.h)(0x6087C00A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_EXIC.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.h)(0x606D9A92)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_GPL_Init.h)(0x609A3294)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_ADC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_ADC.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CFG_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_PW_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_APB_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_APB.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CMP_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CMP.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CSC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_GPIO_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_EXIC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_GPL_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPL.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_I2C_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_I2C.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_IWDT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_IWDT.h)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_MEM_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_RST_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_SPI_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SPI.h)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_SYS_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_TM_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_TM.H)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_URT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_URT.h)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_WWDT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_WWDT.h)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DMA_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DMA.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_RTC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_RTC.h)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CM0_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_EMB_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_EMB.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DAC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DAC.h)(0x606D9A82)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_MEM_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_EMB_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_URT_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_TM_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_ADC_Init.h)(0x609A3294)
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_ChipInit.h)(0x609A3294)()
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_EMB_Init.c)(0x609A3296)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_emb_init.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_emb_init.crf --depend .\objects\mg32x02z_emb_init.d)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_ChipInit.h)(0x609A3294)
+I (.\RTE\_Target_1\RTE_Components.h)(0x60CB755F)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_PW_Init.h)(0x609A3294)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_PW.H)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_RST_Init.h)(0x609A3294)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_RST.H)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_GPIO_Init.h)(0x6087C00A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.h)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_CSC_Init.h)(0x6062E938)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CSC.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_MEM.h)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_EXIC_Init.h)(0x6087C00A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_EXIC.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.h)(0x606D9A92)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_GPL_Init.h)(0x609A3294)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_ADC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_ADC.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CFG_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_PW_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_APB_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_APB.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CMP_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CMP.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CSC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_GPIO_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_EXIC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_GPL_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPL.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_I2C_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_I2C.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_IWDT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_IWDT.h)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_MEM_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_RST_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_SPI_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SPI.h)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_SYS_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_TM_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_TM.H)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_URT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_URT.h)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_WWDT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_WWDT.h)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DMA_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DMA.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_RTC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_RTC.h)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CM0_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_EMB_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_EMB.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DAC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DAC.h)(0x606D9A82)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_MEM_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_EMB_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_URT_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_TM_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_ADC_Init.h)(0x609A3294)
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_EMB_Init.h)(0x609A3294)()
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_EXIC_Init.c)(0x609A3296)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_exic_init.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_exic_init.crf --depend .\objects\mg32x02z_exic_init.d)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_ChipInit.h)(0x609A3294)
+I (.\RTE\_Target_1\RTE_Components.h)(0x60CB755F)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_PW_Init.h)(0x609A3294)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_PW.H)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_RST_Init.h)(0x609A3294)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_RST.H)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_GPIO_Init.h)(0x6087C00A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.h)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_CSC_Init.h)(0x6062E938)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CSC.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_MEM.h)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_EXIC_Init.h)(0x6087C00A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_EXIC.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.h)(0x606D9A92)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_GPL_Init.h)(0x609A3294)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_ADC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_ADC.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CFG_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_PW_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_APB_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_APB.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CMP_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CMP.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CSC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_GPIO_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_EXIC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_GPL_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPL.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_I2C_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_I2C.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_IWDT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_IWDT.h)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_MEM_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_RST_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_SPI_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SPI.h)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_SYS_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_TM_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_TM.H)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_URT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_URT.h)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_WWDT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_WWDT.h)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DMA_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DMA.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_RTC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_RTC.h)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CM0_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_EMB_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_EMB.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DAC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DAC.h)(0x606D9A82)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_MEM_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_EMB_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_URT_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_TM_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_ADC_Init.h)(0x609A3294)
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_EXIC_Init.h)(0x6087C00A)()
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_GPIO_Init.c)(0x609A3296)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_gpio_init.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_gpio_init.crf --depend .\objects\mg32x02z_gpio_init.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_GPIO_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.h)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_GPIO_Init.h)(0x6087C00A)
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_GPIO_Init.h)(0x6087C00A)()
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_GPL_Init.c)(0x609A3296)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_gpl_init.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_gpl_init.crf --depend .\objects\mg32x02z_gpl_init.d)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_ChipInit.h)(0x609A3294)
+I (.\RTE\_Target_1\RTE_Components.h)(0x60CB755F)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_PW_Init.h)(0x609A3294)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_PW.H)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_RST_Init.h)(0x609A3294)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_RST.H)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_GPIO_Init.h)(0x6087C00A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.h)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_CSC_Init.h)(0x6062E938)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CSC.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_MEM.h)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_EXIC_Init.h)(0x6087C00A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_EXIC.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.h)(0x606D9A92)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_GPL_Init.h)(0x609A3294)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_ADC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_ADC.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CFG_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_PW_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_APB_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_APB.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CMP_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CMP.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CSC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_GPIO_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_EXIC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_GPL_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPL.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_I2C_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_I2C.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_IWDT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_IWDT.h)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_MEM_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_RST_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_SPI_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SPI.h)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_SYS_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_TM_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_TM.H)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_URT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_URT.h)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_WWDT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_WWDT.h)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DMA_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DMA.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_RTC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_RTC.h)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CM0_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_EMB_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_EMB.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DAC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DAC.h)(0x606D9A82)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_MEM_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_EMB_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_URT_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_TM_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_ADC_Init.h)(0x609A3294)
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_GPL_Init.h)(0x609A3294)()
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_MEM_Init.c)(0x609A3296)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_mem_init.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_mem_init.crf --depend .\objects\mg32x02z_mem_init.d)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_ChipInit.h)(0x609A3294)
+I (.\RTE\_Target_1\RTE_Components.h)(0x60CB755F)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_PW_Init.h)(0x609A3294)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_PW.H)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_RST_Init.h)(0x609A3294)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_RST.H)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_GPIO_Init.h)(0x6087C00A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.h)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_CSC_Init.h)(0x6062E938)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CSC.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_MEM.h)(0x606D9A7E)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_EXIC_Init.h)(0x6087C00A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_EXIC.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.h)(0x606D9A92)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_GPL_Init.h)(0x609A3294)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_ADC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_ADC.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CFG_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_PW_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_APB_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_APB.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CMP_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CMP.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CSC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_GPIO_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_EXIC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_GPL_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPL.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_I2C_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_I2C.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_IWDT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_IWDT.h)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_MEM_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_RST_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_SPI_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SPI.h)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_SYS_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_TM_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_TM.H)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_URT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_URT.h)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_WWDT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_WWDT.h)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DMA_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DMA.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_RTC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_RTC.h)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CM0_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_EMB_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_EMB.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DAC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DAC.h)(0x606D9A82)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_MEM_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_EMB_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_URT_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_TM_Init.h)(0x609A3294)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_ADC_Init.h)(0x609A3294)
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_MEM_Init.h)(0x609A3294)()
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_PW_Init.c)(0x609A3296)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_pw_init.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_pw_init.crf --depend .\objects\mg32x02z_pw_init.d)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_PW_Init.h)(0x609A3294)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_PW.H)(0x606D9A7E)
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_PW_Init.h)(0x609A3294)()
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_RST_Init.c)(0x609A3296)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_rst_init.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_rst_init.crf --depend .\objects\mg32x02z_rst_init.d)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_RST_Init.H)(0x609A3294)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_RST.H)(0x606D9A7E)
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_RST_Init.h)(0x609A3294)()
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_TM_Init.c)(0x609A3296)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_tm_init.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_tm_init.crf --depend .\objects\mg32x02z_tm_init.d)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_TM_Init.h)(0x609A3294)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_TM.h)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_MEM.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_TM_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_TM_Init.h)(0x609A3294)()
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_URT_Init.c)(0x609A3296)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_urt_init.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_urt_init.crf --depend .\objects\mg32x02z_urt_init.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_URT_Init.h)(0x609A3294)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CSC.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_URT.h)(0x606D9A80)
+I (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_CSC_Init.h)(0x6062E938)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_MEM.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.H)(0x606D9A7E)
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_URT_Init.h)(0x609A3294)()
+F (RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z__IRQHandler.c)(0x609A3296)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z__irqhandler.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z__irqhandler.crf --depend .\objects\mg32x02z__irqhandler.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_ADC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_ADC.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CFG_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_PW_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_PW.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_APB_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_APB.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.h)(0x606D9A92)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CMP_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CMP.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CSC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_GPIO_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CSC.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_EXIC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_EXIC.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_GPL_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPL.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_I2C_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_I2C.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_IWDT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_IWDT.h)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_MEM_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_MEM.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_RST_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_RST.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_SPI_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SPI.h)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_SYS_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_TM_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_TM.H)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_URT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_URT.h)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_WWDT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_WWDT.h)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DMA_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DMA.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_RTC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_RTC.h)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CM0_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_EMB_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_EMB.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DAC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DAC.h)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include\MG32x02z__IRQHandler.H)(0x609A3294)
+I (.\RTE\_Target_1\RTE_Components.h)(0x60CB755F)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_APB_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_Common_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_ADC_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_DMA_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CFG_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_PW_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CMP_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_TM_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_RTC_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_IWDT_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_WWDT_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_URT_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CSC_MID.h)(0x609A328A)
+I (.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_CSC_Init.h)(0x6062E938)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_SPI_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_EXIC_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_I2C_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_I2C_MID_ex.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_MEM_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_DAC_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_EMB_MID.h)(0x609A328A)
+F (RTE\MG32x02z_Device\MG32F02A132\startup_MG32x02z.s)(0x6087D96A)(--cpu Cortex-M0 -g --apcs=interwork -I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include--pd "__UVISION_VERSION SETA 534" --pd "_RTE_ SETA 1" --pd "MG32F02A132 SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_mg32x02z.lst --xref -o .\objects\startup_mg32x02z.o --depend .\objects\startup_mg32x02z.d)
+F (RTE\MG32x02z_Device\MG32F02A132\system_MG32x02z.c)(0x608F685A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\system_mg32x02z.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\system_mg32x02z.crf --depend .\objects\system_mg32x02z.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (.\RTE\_Target_1\RTE_COMPONENTS.h)(0x60CB755F)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CSC.h)(0x606D9A7E)
+I (.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_CSC_init.h)(0x6062E938)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_MEM.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.H)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_ADC_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_adc_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_adc_drv.crf --depend .\objects\mg32x02z_adc_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_ADC_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_ADC.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CFG_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_PW_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_PW.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_APB_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_apb_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_apb_drv.crf --depend .\objects\mg32x02z_apb_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_APB_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_APB.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.h)(0x606D9A92)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_CFG_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_cfg_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_cfg_drv.crf --depend .\objects\mg32x02z_cfg_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CFG_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_CM0_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_cm0_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_cm0_drv.crf --depend .\objects\mg32x02z_cm0_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CM0_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_CMP_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_cmp_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_cmp_drv.crf --depend .\objects\mg32x02z_cmp_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CMP_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CMP.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.H)(0x606D9A92)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_CSC_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_csc_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_csc_drv.crf --depend .\objects\mg32x02z_csc_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_CSC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_GPIO_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CSC.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_DAC_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_dac_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_dac_drv.crf --depend .\objects\mg32x02z_dac_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DAC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DAC.h)(0x606D9A82)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_DMA_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_dma_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_dma_drv.crf --depend .\objects\mg32x02z_dma_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_DMA_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DMA.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.h)(0x606D9A92)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.H)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_EMB_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_emb_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_emb_drv.crf --depend .\objects\mg32x02z_emb_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_EMB_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_EMB.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_EXIC_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_exic_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_exic_drv.crf --depend .\objects\mg32x02z_exic_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_EXIC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.h)(0x606D9A92)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_EXIC.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_GPIO_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_gpio_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_gpio_drv.crf --depend .\objects\mg32x02z_gpio_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_GPIO_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_GPL_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_gpl_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_gpl_drv.crf --depend .\objects\mg32x02z_gpl_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_GPL_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPL.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_I2C_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_i2c_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_i2c_drv.crf --depend .\objects\mg32x02z_i2c_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_I2C_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_I2C.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_IWDT_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_iwdt_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_iwdt_drv.crf --depend .\objects\mg32x02z_iwdt_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_IWDT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_IWDT.h)(0x606D9A82)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_MEM_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_mem_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_mem_drv.crf --depend .\objects\mg32x02z_mem_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_MEM_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_MEM.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_PW_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_pw_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_pw_drv.crf --depend .\objects\mg32x02z_pw_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_PW_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_PW.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_RST_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_rst_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_rst_drv.crf --depend .\objects\mg32x02z_rst_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_RST_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_RST.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_RTC_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_rtc_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_rtc_drv.crf --depend .\objects\mg32x02z_rtc_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_RTC_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_RTC.h)(0x606D9A82)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_SPI_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_spi_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_spi_drv.crf --depend .\objects\mg32x02z_spi_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_SPI_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SPI.h)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_SYS_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_sys_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_sys_drv.crf --depend .\objects\mg32x02z_sys_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_SYS_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_TM_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_tm_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_tm_drv.crf --depend .\objects\mg32x02z_tm_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_TM_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_TM.H)(0x606D9A80)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_URT_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_urt_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_urt_drv.crf --depend .\objects\mg32x02z_urt_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_URT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_URT.h)(0x606D9A80)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z_WWDT_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_wwdt_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_wwdt_drv.crf --depend .\objects\mg32x02z_wwdt_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z_WWDT_DRV.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_WWDT.h)(0x606D9A82)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Source\MG32x02z__Common_DRV.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z__common_drv.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z__common_drv.crf --depend .\objects\mg32x02z__common_drv.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include\MG32x02z__Common_DRV.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_ADC_MID.c)(0x609A328A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_adc_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_adc_mid.crf --depend .\objects\mg32x02z_adc_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_ADC_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_Common_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_ADC.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_DMA_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DMA.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.h)(0x606D9A92)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CFG_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_PW_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_PW.H)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_APB_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_apb_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_apb_mid.crf --depend .\objects\mg32x02z_apb_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_APB_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_Common_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_APB.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.H)(0x606D9A92)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_CMP_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_cmp_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_cmp_mid.crf --depend .\objects\mg32x02z_cmp_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CMP_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_Common_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CMP.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.H)(0x606D9A92)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_CSC_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_csc_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_csc_mid.crf --depend .\objects\mg32x02z_csc_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CSC_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_COMMON_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_CSC_Init.h)(0x6062E938)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CSC.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_MEM.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_Common_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_common_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_common_mid.crf --depend .\objects\mg32x02z_common_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_COMMON_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_DAC_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_dac_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_dac_mid.crf --depend .\objects\mg32x02z_dac_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_DAC_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_Common_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DAC.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_DMA_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DMA.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.h)(0x606D9A92)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_DMA_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_dma_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_dma_mid.crf --depend .\objects\mg32x02z_dma_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_DMA_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_Common_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DMA.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.h)(0x606D9A92)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_EMB_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_emb_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_emb_mid.crf --depend .\objects\mg32x02z_emb_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_EMB_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_COMMON_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CSC_MID.h)(0x609A328A)
+I (.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_CSC_Init.h)(0x6062E938)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CSC.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_MEM.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_DMA_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DMA.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.h)(0x606D9A92)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_EMB.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_EXIC_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_exic_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_exic_mid.crf --depend .\objects\mg32x02z_exic_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_EXIC_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_Common_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_EXIC.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.h)(0x606D9A92)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_GPIO_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_gpio_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_gpio_mid.crf --depend .\objects\mg32x02z_gpio_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_GPIO_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_Common_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_GPL_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_gpl_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_gpl_mid.crf --depend .\objects\mg32x02z_gpl_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_GPL_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_COMMON_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CSC.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPL.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_I2C_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_i2c_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_i2c_mid.crf --depend .\objects\mg32x02z_i2c_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_I2C_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_COMMON_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CSC_MID.h)(0x609A328A)
+I (.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_CSC_Init.h)(0x6062E938)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CSC.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_MEM.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_DMA_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DMA.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.h)(0x606D9A92)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_I2C.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_I2C_MID_ex.h)(0x609A328A)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_I2C_MID_ex.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_i2c_mid_ex.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_i2c_mid_ex.crf --depend .\objects\mg32x02z_i2c_mid_ex.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_I2C_MID_ex.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_COMMON_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_I2C_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CSC_MID.h)(0x609A328A)
+I (.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_CSC_Init.h)(0x6062E938)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CSC.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_MEM.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_DMA_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DMA.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.h)(0x606D9A92)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_I2C.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_IWDT_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_iwdt_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_iwdt_mid.crf --depend .\objects\mg32x02z_iwdt_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_IWDT_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_Common_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_IWDT.h)(0x606D9A82)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_MEM_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_mem_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_mem_mid.crf --depend .\objects\mg32x02z_mem_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_MEM_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_COMMON_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CSC_MID.h)(0x609A328A)
+I (.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_CSC_Init.h)(0x6062E938)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CSC.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_MEM.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_RST.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_PW_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_pw_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_pw_mid.crf --depend .\objects\mg32x02z_pw_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_PW_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_PW.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_RTC_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_rtc_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_rtc_mid.crf --depend .\objects\mg32x02z_rtc_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_RTC_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_Common_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_RTC.H)(0x606D9A82)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.H)(0x606D9A92)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_SPI_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_spi_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_spi_mid.crf --depend .\objects\mg32x02z_spi_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_SPI_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_Common_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SPI.H)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_URT.H)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPL.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.h)(0x606D9A92)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_DMA_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DMA.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CSC_MID.h)(0x609A328A)
+I (.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_CSC_Init.h)(0x6062E938)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CSC.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_MEM.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_SYS_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_sys_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_sys_mid.crf --depend .\objects\mg32x02z_sys_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_SYS_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_TM_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_tm_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_tm_mid.crf --depend .\objects\mg32x02z_tm_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_TM_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_Common_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_TM.H)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_DMA_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DMA.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.h)(0x606D9A92)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_URT_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_urt_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_urt_mid.crf --depend .\objects\mg32x02z_urt_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_URT_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_URT.h)(0x606D9A80)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_Common_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_DMA_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_DMA.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z__ExtraStruct.h)(0x606D9A92)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CSC_MID.h)(0x609A328A)
+I (.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132\MG32x02z_CSC_Init.h)(0x6062E938)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CSC.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_MEM.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_GPIO.H)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_CFG.h)(0x606D9A7E)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_WWDT_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_wwdt_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_wwdt_mid.crf --depend .\objects\mg32x02z_wwdt_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_WWDT_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_COMMON_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_WWDT.h)(0x606D9A82)
+F (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Source\MG32x02z_cortex_MID.c)(0x609A328C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\Listings\\" -I .\UserLib\Inc -I .\Main\Inc -I .\MGLib\Inc -I .\ProjectLib\Inc-I.\RTE\MG32x02z_ChipInit_Wizard\MG32F02A132-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\MG32x02z_ConfigerWizard\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Driver\Include-IC:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Sample\Middleware\Include-D__UVISION_VERSION="534" -D_RTE_ -DMG32F02A132 -D_RTE_-o .\objects\mg32x02z_cortex_mid.o --list_dir ".\\Listings\\" --list --omf_browse .\objects\mg32x02z_cortex_mid.crf --depend .\objects\mg32x02z_cortex_mid.d)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_COMMON_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E4AD2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8314D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EDF32)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A132\Include\MG32x02z_SYS.h)(0x606D9A7E)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CONF_MID.h)(0x609A328A)
+I (C:\Keil_v5\ARM\PACK\Megawin\CM0_DFP\2.0.4\Device\MG32x02z\MG32F02A_Middleware\Include\MG32x02z_CORTEX_MID.H)(0x609A328A)
